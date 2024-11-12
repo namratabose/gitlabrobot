@@ -10,7 +10,7 @@ ${network}              false
 ${isRealMobile}         True
 ${devicelog}            True  # Added device logging variable
 ${LT_APP_ID}            lt://APP1016037291729689227996674 # Your LambdaTest app ID
-${LT_GRID_URL}          f https://namratab:Eu3ZJ6eMyMgUCde08woTtfL1aoxh4oZm8JK6Ly3H2t5FVUUe5M@mobile-hub.lambdatest.com/wd/hub
+${LT_GRID_URL}          https://namratab:Eu3ZJ6eMyMgUCde08woTtfL1aoxh4oZm8JK6Ly3H2t5FVUUe5M@mobile-hub.lambdatest.com/wd/hub
 ${TIMEOUT}              3000
 
 *** Keywords ***
